@@ -1,6 +1,8 @@
 # GabeNewell-NotebookLM-DIO
 Exercício do Bootcamp da plataforma DIO utilizando a ferramenta NotebookLM.
+
 Gabbe Newell o criador do império dos games e a grande e maior plataforma para computadores Steam. Usando como referência a aula do prof Felipe da DIO quis pesquisar sobre um grande criador de um hobby que tenho os video-games com objetivo de prender mais sobre ele seus feitos. 
+
 Usando a ferramenta para aprender mais sobre e em menos tempo utilizei links de sites com fontes seguras para aprender mais sore Gabe
 
 Links Utilizados:
