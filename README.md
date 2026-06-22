@@ -5,8 +5,11 @@ Usando a ferramenta para aprender mais sobre e em menos tempo utilizei links de 
 
 Links Utilizados:
 https://pt.wikipedia.org/wiki/Gabe_Newell#bodyContent
+
 https://www.pcgamer.com/gaming-industry/gabe-newell-says-he-founded-valve-after-doom-showed-him-microsoft-was-missing-the-opportunity-offered-by-the-internet-i-was-willing-to-sort-of-put-my-money-where-my-mouth-was/#main
+
 https://www.youtube.com/watch?v=O7F26oyCt6Q
+
 https://www.suno.com.br/tudo-sobre/gabe-newell/
 
 Algumas das perguntas estratégicas que fiz foi:
