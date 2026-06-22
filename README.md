@@ -13,8 +13,11 @@ https://www.youtube.com/watch?v=O7F26oyCt6Q
 https://www.suno.com.br/tudo-sobre/gabe-newell/
 
 Algumas das perguntas estratégicas que fiz foi:
+
 Qual foi o estopim para que Gabe criasse a Steam?
+
 Por que Doom foi tão importante para a visão dele?
+
 De onde vem o nome Steam?
 
 E em todas as perguntas a ferramenta sempre utiliza dados e fontes que você mesmo a treinou a usar com respostas coesas resumidas e indicando de qual fonte de materia ele retira tal informação.
